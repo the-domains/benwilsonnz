@@ -1,0 +1,38 @@
+name: benwilson.porn
+analytics: {}
+github: true
+description: benwilson.porn
+author:
+  name: Benjamin Wilson
+  url: 'http://benwilson.porn'
+  email: thisisme@benwilson.xxx
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.07397916726768017
+color:
+  lightness: 0.4288348703246645
+  brandColors:
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
+  saturation: 0.04872311745973377
+  brandStrength: 0.1074724367604294
+  rhythmicContrast: 0.134807538505366
+content_rating:
+  adult: false
+typography_spectrum: 0.777056451421231
+opengraph: {}
+title: benwilson.porn
